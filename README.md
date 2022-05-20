@@ -10,3 +10,10 @@ Utilizar un modelo ResNet50 importado de https://keras.io para identificar el Al
 
 https://keras.io/api/applications/resnet/#resnet50-function
 
+
+
+# Imágenes
+
+http://www.itksnap.org/pmwiki/pmwiki.php?n=Downloads.SNAP3
+
+DATASET: https://datashare.ed.ac.uk/handle/10283/1957
